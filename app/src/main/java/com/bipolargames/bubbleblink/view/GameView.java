@@ -56,7 +56,7 @@ public class GameView extends SurfaceView {
 
     @Override
     public void draw(Canvas canvas) {
-        canvas.drawColor(Color.RED);
+        canvas.drawColor(Color.YELLOW);
         //this.game.draw(canvas);
         //this.game.gameBoard.draw(canvas);
     }
